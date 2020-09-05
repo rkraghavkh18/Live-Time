@@ -7,5 +7,3 @@ function gotMessage(message,sender,sendResponse)
     ///the function which we want to  happen to the content section
   }
 }
-
-//sdsada
