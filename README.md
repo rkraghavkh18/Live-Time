@@ -17,6 +17,11 @@ To get a copy of the extension to work on your local system , follow the respect
 git clone https://github.com/rkraghavkh18/Live-Time.git
 ```
 
+2. In chrome , move to settings and within that click the extensions .
+
+3. Switch to the developers mode and click ```Load Unpacked``` and select the ```Live Time``` folder and open it. 
+
+In the end , an extension will appear on the screen and you can use the extension to its fullest extension and explore the feature.
 
 
 ## Extension Demo
@@ -33,7 +38,3 @@ git clone https://github.com/rkraghavkh18/Live-Time.git
 * **Siddesh Sathe** -[mrSidSat](https://github.com/mrSidSat)
 * **Sarvesh Khandelwal** -[SARVESHKHANDELWAL](https://github.com/SARVESHKHANDELWAL)
 * **Raghav Khandelwal** -[rkraghavkh18](https://github.com/rkraghavkh18)
-
-
-
-
