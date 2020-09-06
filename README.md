@@ -1,6 +1,6 @@
 # Live-Time
 
-![Live-Time](Live Time/img.jpg)
+![Live-Time](Live Time/docs/img/img.jpg)
 
 >Idea for [hackgujarat](https://www.hackgujarat.com) hackathon.
 
