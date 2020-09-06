@@ -1,9 +1,4 @@
-#title{
-  background-color: #ff4c68;
-}
-
-.navbar-brand{
-  font-family: Ubuntu;
-  font-size: 2.5rem;
-  color:black;
+body {
+  text-align: center;
+  background-color:white;
 }

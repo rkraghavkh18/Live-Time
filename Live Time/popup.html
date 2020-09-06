@@ -12,26 +12,25 @@
   </head>
   <body>
 
-
-  </div>
-  <!-- Nav Bar -->
-<div class="container-fluid">
-  <nav class = "navbar navbar-expand-md navbar-dark " >
-     <a class = "navbar-brand" href="">Live Time</a>
-  </nav>
-
-
   <!-- Title -->
 <div class="row">
   <div class="col-lg-6">
-    <h1 class="a"></h1>
-    <button type="button" class="btn btn-dark btn-lg download-button">Download</button>
-    <button type="button" class="btn btn-outline-light btn-lg download-button">Download</button>
+    <h1 class="a">Live Time</h1>
+    <!-- <button type="button" class="btn btn-dark btn-lg download-button">Download</button> -->
   </div>
 </div>
-
-
-</div>
+<table cellspacing="20">
+    <tr>
+      <td><a href=""><img class="af" src="icon128.png" alt="tick-tick"></a></td>
+      <td>
+        <form action="?action=save" name="Info" method="post">
+      <p> <strong>Website</strong> <input type=text name="Website"></p>
+      <p><strong>Time Limit:</strong> <input type=text name="time limit"> </p>
+      <input type="submit" value="Submit">
+      </form>
+      </td>
+    </tr>
+</table>
 
     <footer id="footer">
   <p>© Copyright 2020 Live Time</p>
