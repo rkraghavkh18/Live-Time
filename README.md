@@ -1,6 +1,6 @@
 # Live-Time
 
-![Live-Time](Live-Time/Live Time/icon128.png)
+![Live-Time](Live Time/icon128.png)
 
 >Idea for [hackgujarat](https://www.hackgujarat.com)hackathon.
 
@@ -21,7 +21,7 @@ git clone https://github.com/rkraghavkh18/Live-Time.git
 
 ## Extension Demo
 
-![Live-Time](Live-Time/Live Time/)
+![Live-Time](Live Time/)
 
 ## Built With
 
